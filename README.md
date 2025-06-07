@@ -1,2 +1,2 @@
 # glici_app
-Glici é um app de gerenciamento de leituas inspirado na beleza e no simbolismo das glicínias.
+Glici é um app de gerenciamento de leituras inspirado na beleza e no simbolismo das glicínias.
