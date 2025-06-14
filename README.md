@@ -14,4 +14,4 @@ Com uma interface leve e amigável, você pode:
 
 ## 🎨 protótipo
 
-
+[Protótipo no figma](https://www.figma.com/proto/f0c2Q4Dh6j015CYIGVa7yr/GliciApp?node-id=0-1&t=h4w4st3IaFzRIkoT-1)
