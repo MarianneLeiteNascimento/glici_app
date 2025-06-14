@@ -8,9 +8,8 @@ Com uma interface leve e amigável, você pode:
 📅 Criar metas de leitura com lembretes gentis  
 
 ## 🖼️ Wireframes
-
-- Baixa fidelidade: 
-- Alta fidelidade: 
+ 
+ - Alta fidelidade: [GliciApp](https://github.com/user-attachments/assets/ae6455c8-bb30-43e2-8b8e-ff48ad59451b)
 
 ## 🎨 protótipo
 
